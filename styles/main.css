@@ -5,10 +5,14 @@
 	margin: 0 auto;
 	/*below is how you center everything*/
 }
-img{
-	float: right;
+
+.left{
+	float: left;
 }
 
+.right{
+	float: right;
+}
 
 
 
