@@ -1,9 +1,13 @@
 #container{
 	max-width:1080px;
+
 	/*below is how you center everything*/
 	margin: 0 auto;
+	/*below is how you center everything*/
 }
-
+img{
+	float: right;
+}
 
 
 
